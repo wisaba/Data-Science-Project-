@@ -1,4 +1,4 @@
-" Data-Science-Project-" 
+
 This project demonstrates various data science techniques and methodologies through detailed analysis and implementation. The main components of this project include:
 
     Data Preprocessing: Cleaning, transforming, and preparing data for analysis.
